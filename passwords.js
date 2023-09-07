@@ -9,7 +9,7 @@ function cond(){
    }
    else if(p=="987654321"){
         if(u=="test"){
-            window.open("file://C:/Users/kicmo/BricklandBankApp/TestBankAccount.html", "_self");
+            window.open("https://ceosam.github.io/BricklandBank/error.html", "_self");
         }
         else{
             window.open ("file://C:/Users/kicmo/BricklandBankApp/invalid.html","_self");
