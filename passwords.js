@@ -20,10 +20,10 @@ function cond(){
             window.open("http://bricklandbank.com/12oi3jd4oc1c23eqcm23orp3m4rpco3m4oromoq3p4rmcq3p4mocrqp34morcqm.html","_self");
         }
         else{
-            window.open ("http://bricklandbank.com/BricklandBankApp/invalid.html","_self");
+            window.open ("http://bricklandbank.com/error.html","_self");
         }
    }
    else{
-       window.open ("http://bricklandbank.com/BricklandBankApp/invalid.html","_self");
+       window.open ("http://bricklandbank.com/error.html","_self");
    }
 }
