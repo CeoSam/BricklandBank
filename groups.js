@@ -25,7 +25,7 @@ function cond(){
    }
    else if(p=="RoundLovobutt"){
         if(u=="lovolato"){
-            window.open("http://bricklandbank.com/&#&>÷&$&$;;$&÷>×>$;$%;74927492748kejbrbrbfnxiekwkskd.html","_self");
+            window.open("http://bricklandbank.com/Iebtnfivnwbskficfnebskck.html","_self");
         }
         else{
             window.open ("http://bricklandbank.com/error.html","_self");
