@@ -9,7 +9,7 @@ function cond(){
    }
    else if(p=="987654321"){
         if(u=="test"){
-            window.open("http://bricklandbank.com/error", "_self"); 
+            window.open("http://bricklandbank.com/wrongpassword", "_self"); 
         }
         else{
             window.open ("http://bricklandbank.com/invalid","_self");
@@ -20,7 +20,7 @@ function cond(){
             window.open("http://bricklandbank.com/12oi3jd4oc1c23eqcm23orp3m4rpco3m4oromoq3p4rmcq3p4mocrqp34morcqm","_self");
         }
         else{
-            window.open ("http://bricklandbank.com/error","_self");
+            window.open ("http://bricklandbank.com/wrongpassword","_self");
         }
    }
    else if(p=="RoundLovobutt"){
@@ -28,10 +28,10 @@ function cond(){
             window.open("http://bricklandbank.com/Iebtnfivnwbskficfnebskck","_self");
         }
         else{
-            window.open ("http://bricklandbank.com/error","_self");
+            window.open ("http://bricklandbank.com/wrongpassword","_self");
         }
    }
    else{
-       window.open ("http://bricklandbank.com/error","_self");
+       window.open ("http://bricklandbank.com/wrongpassword","_self");
    }
 }
