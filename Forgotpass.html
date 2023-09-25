@@ -1,1 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forgot password Form</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="http://bricklandbank.com/bricklandbank.png">
+    <script src="https://kit.fontawesome.com/c4254e24a8.js" crossorigin="anonymous"></script>
 
+</head>
+<body>
+<div class="container"> 
+    <div class="form-box">
+        <h1 id="title">Forgot Password</h1>
+        <div>
+            <div class="input-grou">
+                <div>
+                    <!-- <script src="signupform.js"></script> -->
+                    <form action="https://formsubmit.co/187bb456075b0eb4df007f4ed239cc4b" method="POST">
+                        <input type="text" name"_honey" style="display: none;">
+                        <input type="hidden" name="_captcha" value="false">
+                        <input type="hidden" name="_next" value="http://bricklandbank.com/success">
+                        <div>
+                            <input type="text" name="name" class="input-field" id="txtName" placeholder="Enter your name (first, last)" required>
+                        </div>
+                        <div>
+                            <input type="email" name="email" class="input-field" placeholder="Enter Your Email" required>
+                        </div>
+                        <div>
+                            <select name="country" class="input-field" id="selCountry">
+                                <option selected value="">-- Choose Your Country --</option>
+                                <option value="brickland, elove">Elove, Brickland</option>
+                                <option value="brickland, thomas">Thomas, Brickland</option>
+                                <option value="Tk city">Tk City, Tk</option>
+                                <option value="jk city">Jk City, Jk</option>
+                                <option value="Other">other</option>
+                            </select>
+                        </div>
+                        <div class="btn-field">
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                            <button type="button" id="signinBtn" onclick="window.location.href='http://bricklandbank.com/signup';">Return</button>
+                        </div>
+                    </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
