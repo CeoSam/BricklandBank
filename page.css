@@ -16,8 +16,8 @@
 
 .Content-box{
     width: 90%;
-    width: 100vh;
-    height: 100vh;
+    width: 40vh;
+    height: 80vh;
     max-width: 1400px;
     max-height: 300px;
     position: absolute;
