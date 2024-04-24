@@ -1,5 +1,9 @@
-if (condition) {
-  //  block of code to be executed if the condition is true
+if (mm = "yes") {
+  if (nn = "yes") {
+    window.open("https://www.bricklandbank.com/success");
+  }  else {
+    window.open("https://www.bricklandbank.com/wrongpassword");
+  }
 } else {
-  //  block of code to be executed if the condition is false
+  window.open("https://www.bricklandbank.com/wrongpassword");
 }
