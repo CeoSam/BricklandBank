@@ -16,8 +16,8 @@
 }
 
 .form-box{
-    width: 100%;
-    width: 90%;
+    width: 20vw;
+    height: 80vh;
     max-width: 450px;
     position: absolute;
     top: 50%;
